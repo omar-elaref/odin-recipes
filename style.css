@@ -1,0 +1,14 @@
+h1 {
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.list {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(25, 34, 222);
+}
+
+#eggs{
+    background-color: aqua;
+}
